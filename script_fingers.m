@@ -1,4 +1,3 @@
-%% TEAM 2: Counting number of fingers (from a complete body photo)
 
 close all;
 clear;
